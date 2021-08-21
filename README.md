@@ -3,9 +3,9 @@
 ## I'm a Student, Designer, and Developer!!
 
 - 🌱 I’m currently learning C# and C++ 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play Video Games and code
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to play code and design
 
 ### Spotify Playing 🎧
 
