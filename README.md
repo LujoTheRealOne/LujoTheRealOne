@@ -1,6 +1,6 @@
 ### Hi there, I'm Luca - aka [LujoTheRealOne](https://lujoderechte.de/) 👋
 
-## I'm a Student, Designer, and Developer!!
+## I'm a Student and Developer!!
 
 - 🌱 I’m currently learning C# and C++ 🤣
 - 👯 I’m looking to collaborate with other developers
