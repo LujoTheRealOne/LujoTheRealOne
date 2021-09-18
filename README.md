@@ -4,6 +4,7 @@
 
 - 🌱 I’m currently learning C# and C++ 🤣
 - 👯 I’m looking to collaborate with other developers
+- 🔧 I have my own company named [Lujo-Development](http://lujo-development.com/)
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play code and design
 
