@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning C++ 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🔧 I have my own company named [Lujo-Development](http://lujo-development.com/)
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play code and design
+- 🥅 2023 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to play, code and design
 
 ### Spotify Playing 🎧
 
@@ -33,9 +33,3 @@
 
 ---
 
-<details>
-  <summary>⚡ GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=LujoTheRealOne&show_icons=true&hide_border=true" />
-
-</details>
