@@ -3,9 +3,9 @@
 ## I'm a Student and Developer!!
 
 - 🌱 I’m currently learning C# 🤣
-- 👯 I’m looking to collaborate with other developers
+- 👯 I’m looking to collaborate with designers
 - 🔧 I have my own company named [Luca Wernicke](https://lucawernicke.com/)
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🎯 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play, code and design
 
 ### Languages and Tools:
